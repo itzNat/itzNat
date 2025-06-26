@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <h3>About Me</h3>
-<p>I’m a junior dev with the determination to make it big—or at least make my code compile on the first try. I specialize in turning coffee, debugging existential crises, and writing code so clean it sparkles (until I add ‘just one quick fix’). My hobbies include arguing with Stack Overflow answers, googling error messages and celebrating when my codde works for the first time. I may not have seniority, but I do have an unhealthy obsession with trying to improve each day. My social skills are like JavaScript: mostly functional.</p>
+<p>I’m a junior dev with the determination to make it big—or at least make my code compile on the first try. I specialize in turning coffee, debugging, committing to git and writing code so clean it shines (until I add ‘just one quick fix’). My hobbies include reading manhuas, browsing different websites, googling error messages and celebrating when my codde works for the first time. I may not have seniority, but I do have an unhealthy obsession with trying to improve each day. My social skills are like JavaScript: mostly functional.</p>
 
 <p align="left"> <img align="left" src="https://komarev.com/ghpvc/?username=itznat&label=Profile%20views&color=0e75b6&style=flat" alt="itznat" /> </p>
 
