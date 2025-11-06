@@ -1,176 +1,53 @@
-<div align="center">✨ Welcome to My Digital Universe ✨</div>
+<h1 align="center">Hi 👋, I'm Nate</h1>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3>About Me</h3>
+<p>I’m a junior dev with the determination to make it big—or at least make my code compile on the first try. I specialize in drinking coffee, debugging, committing to git and writing code so clean it shines (until I add ‘just one quick fix’). My hobbies include reading manhuas, browsing different websites, googling error messages and celebrating when my codde works for the first time. I may not have seniority, but I do have an unhealthy obsession with trying to improve each day. My social skills are like JavaScript: mostly functional.</p>
 
-<div align="center">
+<p align="left"> <img align="left" src="https://komarev.com/ghpvc/?username=itznat&label=Profile%20views&color=0e75b6&style=flat" alt="itznat" /> </p>
 
-https://komarev.com/ghpvc/?username=itznat&label=CURIOUS+MINDS&color=ff69b4&style=flat-square
-https://img.shields.io/github/followers/itzNat?color=9c1aff&label=COLLABORATORS&style=flat-square
 
-</div>
 
-<div align="center">🌌 Digital Alchemist & Frontend Visionary</div>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div align="center">
+- 🔭 I’m currently working on **Ecommerce App**
 
-Transforming coffee into code • Building the web, one component at a time • Nigerian developer with global dreams
+- 🌱 I’m currently learning **React**
 
-</div>
+- 👯 I’m looking to collaborate on **Frontend Projects**
 
----
+- 💬 Ask me about **Javascript**
 
-🎯 Current Focus
+- 📫 How to reach me **legendaryelzio@gmail.com**
 
-```typescript
-const currentMission = {
-  project: "🚀 Next-Gen Ecommerce Platform",
-  learning: ["React Ecosystem", "Advanced Animations", "Performance Optimization"],
-  collaboration: "Open to innovative frontend projects",
-  status: "Coding with passion ☕"
-} as const;
-```
-
-🛠 Tech Arsenal
-
-<div align="center">
-
-Core Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,git,ps,vercel&theme=dark&perline=8" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/itznat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itznat" height="30" width="40" /></a>
 </p>
 
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-📊 Code Chronicles
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee Nate"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee Nate" /></a><a href="https://ko-fi.com/Ko-fi Nate"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi Nate" /></a></p><br><br>
 
-<div align="center">
 
-<!-- GitHub Stats with modern layout -->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_n.a.t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itz Nat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:legendaryelzio@gmail.com) 
 
-<div align="center">
-  <a href="https://github.com/itzNat">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itzNat&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&title_color=7B68EE&icon_color=FF69B4&text_color=FFFFFF&count_private=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=itzNat&theme=material-palenight&hide_border=true&background=00000000&ring=7B68EE&fire=FF69B4&currStreakLabel=FFFFFF" />
-  </a>
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=itzNat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=itzNat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzNat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Languages with compact view -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=itzNat&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-  <a href="https://github.com/itzNat">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzNat&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000&title_color=7B68EE&text_color=FFFFFF&langs_count=6" />
-  </a>
-</div>
-
-</div>
-
-🌟 Featured Projects
-
-<div align="center">
-
-🚀 Project 📝 Description 🛠 Tech Stack
-Ecommerce Evolution Next-generation shopping experience React • Tailwind • JavaScript
-Component Library Reusable UI components HTML • CSS • JS
-Animation Playground Experimental web animations CSS • JavaScript
-
-</div>
-
-💫 Developer DNA
-
-```javascript
-const developerProfile = {
-  mindset: "Growth-focused & curious",
-  specialties: [
-    "Pixel-perfect implementations",
-    "Responsive design alchemy", 
-    "Performance optimization",
-    "Clean, maintainable code"
-  ],
-  passions: [
-    "Creating intuitive user experiences",
-    "Learning emerging technologies",
-    "Open source collaboration",
-    "Mentoring fellow developers"
-  ]
-};
-```
-
-📬 Connect & Collaborate
-
-<div align="center">
-
-https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000
-https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000
-https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000
-
-</div>
-
-☕ Fuel My Creativity
-
-<div align="center">
-
-Help keep the code flowing and the ideas growing
-
-<a href="https://www.buymeacoffee.com/buymeacoffee Nate">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=000000" height="40"/>
-</a>
-<a href="https://ko-fi.com/Ko-fi Nate">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=000000" height="40"/>
-</a>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=itzNat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=itzNat&icon=0&color=1)](https://visitcount.itsvg.in)
 
-🎨 Beyond the Code
-
-```yaml
-Interests:
-  - UI/UX Design Psychology
-  - Digital Art & Photography
-  - Tech Community Building
-  - Open Source Advocacy
-  - Creative Coding Experiments
-
-Currently_Exploring:
-  - Advanced React Patterns
-  - WebGL & 3D Graphics
-  - AI Integration in Frontend
-  - Web Performance Metrics
-```
-
----
-
-<div align="center">
-
-🌈 Let's Build Something Amazing Together
-
-"The best way to predict the future is to create it." - Abraham Lincoln
-
-<br>
-
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&reversal=true
-
-Thanks for exploring my digital space! 🚀
-
-</div>
-
----
-
-<div align="center">
-
-Crafted with 💜, animated with 🎨, and powered by ☕
-
-</div>
-
-<style>
-  /* Smooth scrolling for modern browsers */
-  html {
-    scroll-behavior: smooth;
-  }
-  
-  /* Custom animations for badges and icons */
-  .badge:hover {
-    transform: translateY(-2px);
-    transition: all 0.3s ease;
-  }
-</style>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
