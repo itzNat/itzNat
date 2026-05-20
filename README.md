@@ -1,7 +1,7 @@
 <!-- ✨ Slick Modern GitHub Profile README for Nate ✨ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C9A7&center=true&vCenter=true&width=550&lines=Hey+👋+I'm+Nate;Frontend+Developer+from+Nigeria;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C9A7&center=true&vCenter=true&width=570&lines=Hey+👋+I'm+Nate;Frontend+Developer+from+Nigeria;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -59,8 +59,8 @@ I drink coffee like it’s a framework, debug in my sleep, and celebrate when my
 
 ### ☕ Support My Hustle  
 <p align="center">
-  <a href="https://www.buymeacoffee.com/nate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-  <a href="https://ko-fi.com/nate" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" /></a>
+  <a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+  <a href="" target="_blank"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" /></a>
 </p>
 
 ---
