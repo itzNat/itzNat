@@ -1,7 +1,7 @@
 <!-- ✨ Slick Modern GitHub Profile README for Nate ✨ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C9A7&center=true&vCenter=true&width=570&lines=Hey+👋+I'm+Nate;Frontend+Developer+from+Nigeria;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C9A7&center=true&vCenter=true&width=620&lines=Hey+👋+I'm+Nate;Frontend+Developer+from+Nigeria;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
